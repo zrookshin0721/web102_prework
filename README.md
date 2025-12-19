@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='Kapture 2025-12-16 at 17.29.27.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -36,6 +36,7 @@ GIF created with Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
+In general it was challenging to first process the concepts introduced in the documents and then apply it to my code. 
 
 ## License
 
